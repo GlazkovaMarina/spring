@@ -1,0 +1,6 @@
+ru/gb/my_first_crud/MyFirstCrudApplication.class
+ru/gb/my_first_crud/controller/UserController.class
+ru/gb/my_first_crud/service/UserService.class
+ru/gb/my_first_crud/config/DataBase.class
+ru/gb/my_first_crud/repository/UserRepository.class
+ru/gb/my_first_crud/model/User.class

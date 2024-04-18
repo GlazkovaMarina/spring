@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.gb.my_first_crud.MyFirstCrudApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.584 s -- in ru.gb.my_first_crud.MyFirstCrudApplicationTests
