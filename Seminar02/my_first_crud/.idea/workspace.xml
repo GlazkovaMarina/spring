@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14c82bbf-0ea9-4243-ab64-85b1b5c34835" name="Changes" comment="hw4">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Seminar05/hw_sem5/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../../Seminar05/hw_sem5/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Seminar05/hw_sem5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Seminar05/hw_sem5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Seminar05/hw_sem5/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Seminar05/hw_sem5/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Seminar05/hw_sem5/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../Seminar05/hw_sem5/src/main/resources/schema.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -38,18 +41,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.MyFirstCrudApplication.executor": "Run",
-    "Maven.my_first_crud [clean].executor": "Run",
-    "Maven.my_first_crud [package].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/glazkova_marina/Desktop/GB_Developer/Spring/Spring6145/Seminar02/my_first_crud",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MyFirstCrudApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.my_first_crud [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.my_first_crud [package].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/glazkova_marina/Desktop/GB_Developer/Spring/Spring6145/Seminar02/my_first_crud&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="MyFirstCrudApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="corretto-21 (2)" />

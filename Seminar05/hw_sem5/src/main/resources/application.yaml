@@ -1,9 +1,13 @@
-#spring:
-#  datasource:
-#    url: jdbc:postgresql://localhost:5432/tasks-hw5-db
-#    username: tasks-hw5-db
-#    password: tasks-hw5-db
-#jpa:
-#  hibernate:
-#    ddl-auto: update
-#    show-sql: true
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/tasks_hw5
+    username: tasks_hw5
+    password: tasks_hw5
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    generate-ddl: false
+    hibernate:
+      ddl-auto: create-drop
+
+
+

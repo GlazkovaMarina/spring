@@ -15,7 +15,7 @@ import org.springframework.http.converter.HttpMessageNotReadableException;
 
 @Data
 @Entity
-@Table(name = "tasks")
+@Table(name = "tasks_table")
 public class Task {
 
     @Id
