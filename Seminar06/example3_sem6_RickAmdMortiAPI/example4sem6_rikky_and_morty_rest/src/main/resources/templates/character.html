@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <link th:href="@{/css/style.css}" rel="stylesheet" >
+    <title>Персонаж</title>
+</head>
+<body>
+    <div class="title center">
+        <h1>Персонаж мультсериала "Рик и Морти"</h1>
+    </div>
+    <div class="character__card center">
+                <img th:src="${character.image}" alt="image of character" class="character__card__img">
+                <div class="character__info">
+                    <h3 class="character__name" th:text="${character.name}"></h3>
+                    <h6 class="character__status" th:text="${character.status}"></h6>
+                    <h6 class="character__species" th:text="${character.species}"></h6>
+                    <h6 class="character__type" th:text="${character.type}"></h6>
+                    <h6 class="character__gender" th:text="${character.gender}"></h6>
+                    <a th:href="@{../characters}" class="button">Вернуться к списку всех персонажей</a>
+                </div>
+    </div>
+</body>
+</html>
