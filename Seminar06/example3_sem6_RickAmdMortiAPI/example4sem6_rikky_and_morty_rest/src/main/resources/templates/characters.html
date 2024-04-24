@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <link th:href="@{/css/style.css}" rel="stylesheet" >
+    <title>Рик и Морти</title>
+</head>
+<body>
+    <div class="title center">
+        <h1>Персонажи мультсериала "Рик и Морти"</h1>
+    </div>
+    <div class="card__characters center">
+        <tr th:each ="character: ${characters}">
+            <div class="character__card">
+                <a th:href="@{../../character/{id}(id=${character.id})}"> <img th:src="${character.image}" alt="image of character" class="character__card__img"></a>
+                <div class="character__info">
+                    <h2 class="character__name" th:text="${character.name}"></h2>
+                </div>
+            </div>
+        </tr>
+    </div>
+</body>
+</html>

@@ -1,22 +1,35 @@
 package com.example.example4sem6_rikky_and_morty_rest.controller;
 
 import com.example.example4sem6_rikky_and_morty_rest.domain.Characters;
+import com.example.example4sem6_rikky_and_morty_rest.domain.Result;
 import com.example.example4sem6_rikky_and_morty_rest.service.ServiceApi;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.PathVariable;
 
-@RestController
+
+import java.util.List;
+
+@Controller
 public class ControllerAPI {
     @Autowired
     private ServiceApi serviceApi;
 
-    @GetMapping("/")
-    public ResponseEntity<Characters> getCharacters()
+    @GetMapping("/characters")
+    public String getCharacters(Model model)
     {
         Characters allCharacters = serviceApi.getAllCharacters();
-        return new ResponseEntity<>(allCharacters, HttpStatus.OK);
+        List<Result> results = allCharacters.getResults();
+        model.addAttribute("characters", results);
+        return "characters";
+    }
+    @GetMapping("/character/{id}")
+    public String getSingleCharacter(@PathVariable Integer id, Model model)
+    {
+        Result character = serviceApi.getSingleCharacter(id);
+        model.addAttribute("character", character);
+        return "character";
     }
 }
