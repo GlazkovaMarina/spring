@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1694e27e-9c1f-4646-b5ce-d629b948d40e" name="Changes" comment="add hw 4 task 2" />
+    <list default="true" id="1694e27e-9c1f-4646-b5ce-d629b948d40e" name="Changes" comment="add hw 4 task 2">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

@@ -1,7 +1,7 @@
 package ru.gb;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import ru.gb.config.ProjectConfiguration;
+//import ru.gb.config.ProjectConfiguration;
 import ru.gb.model.Comment;
 import ru.gb.service.CommentService;
 
