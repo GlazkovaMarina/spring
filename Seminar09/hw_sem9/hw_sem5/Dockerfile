@@ -1,0 +1,4 @@
+FROM postgres:latest
+ENV POSTGRES_DB tasks_hw5_new
+ENV POSTGRES_USER tasks_hw5_new
+ENV POSTGRES_PASSWORD tasks_hw5_new

@@ -1,0 +1,8 @@
+ru/gb/hw_sem6_base/HwSem6BaseApplication.class
+ru/gb/hw_sem6_base/domain/Note.class
+ru/gb/hw_sem6_base/aspect/TrackUserActionAspect.class
+ru/gb/hw_sem6_base/repository/NoteRepository.class
+ru/gb/hw_sem6_base/service/NoteService.class
+ru/gb/hw_sem6_base/controller/NoteController.class
+ru/gb/hw_sem6_base/service/impl/NoteServiceImpl.class
+ru/gb/hw_sem6_base/aspect/TrackUserAction.class
