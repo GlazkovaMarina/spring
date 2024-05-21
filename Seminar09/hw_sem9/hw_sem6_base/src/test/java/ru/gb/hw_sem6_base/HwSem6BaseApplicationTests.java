@@ -10,4 +10,6 @@ class HwSem6BaseApplicationTests {
 	void contextLoads() {
 	}
 
+
+
 }

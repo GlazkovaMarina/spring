@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b06092f-f1ed-412a-8cb4-a07c19a8eafa" name="Changes" comment="have done hw8">
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -60,16 +60,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.HwSem6BaseApplication.executor": "Run",
+    "JUnit.TestServiceWithAnnotationIntegration.correctFindById.executor": "Run",
+    "JUnit.TestServiceWithAnnotationIntegration.executor": "Run",
+    "JUnit.TransferServiceWithAnnotationUTest.correctFindById.executor": "Run",
+    "JUnit.TransferServiceWithAnnotationUTest.executor": "Run",
     "Maven.hw_sem6_base [clean].executor": "Run",
     "Maven.hw_sem6_base [compile].executor": "Run",
     "Maven.hw_sem6_base [package].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/glazkova_marina/Desktop/GB_Developer/Spring/Spring6145/Seminar06/hw_sem6_base"
+    "last_opened_file_path": "/Users/glazkova_marina/Desktop/GB_Developer/Spring/Spring6145/Seminar09/hw_sem9/hw_sem6_base"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.HwSem6BaseApplication">
     <configuration name="HwSem6BaseApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.gb.hw_sem6_base.HwSem6BaseApplication" />
       <module name="hw_sem6_base" />
@@ -83,9 +87,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestServiceWithAnnotationIntegration.correctFindById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw_sem6_base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.hw_sem6_base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.hw_sem6_base" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.hw_sem6_base.TestServiceWithAnnotationIntegration" />
+      <option name="METHOD_NAME" value="correctFindById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransferServiceWithAnnotationUTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw_sem6_base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.hw_sem6_base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.hw_sem6_base" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.hw_sem6_base.TransferServiceWithAnnotationUTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransferServiceWithAnnotationUTest.correctFindById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw_sem6_base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.hw_sem6_base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.hw_sem6_base" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.hw_sem6_base.TransferServiceWithAnnotationUTest" />
+      <option name="METHOD_NAME" value="correctFindById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.HwSem6BaseApplication" />
+        <item itemvalue="JUnit.TestServiceWithAnnotationIntegration.correctFindById" />
+        <item itemvalue="JUnit.TransferServiceWithAnnotationUTest.correctFindById" />
+        <item itemvalue="JUnit.TransferServiceWithAnnotationUTest" />
       </list>
     </recent_temporary>
   </component>
@@ -115,6 +169,17 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="have done hw8" />

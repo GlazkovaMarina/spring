@@ -11,3 +11,9 @@ public class HwSem6BaseApplication {
 	}
 
 }
+
+
+/*
+Задание: Используйте Spring Actuator для отслеживания метрик вашего приложения.
+Настройте визуализацию этих метрик с использованием Prometheus и Grafana.
+ */
