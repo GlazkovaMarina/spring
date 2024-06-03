@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30b887bc-01ff-4765-9f1f-7c6b9adc5d93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Seminar06/hw_sem6_base/src/main/java/ru/gb/hw_sem6_base/aspect/TrackUserAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar06/hw_sem6_base/src/main/java/ru/gb/hw_sem6_base/aspect/TrackUserActionAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar06/hw_sem6_base/src/main/java/ru/gb/hw_sem6_base/service/impl/NoteServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar06/hw_sem6_base/src/main/java/ru/gb/hw_sem6_base/service/impl/NoteServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar06/hw_sem6_base/target/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar06/hw_sem6_base/target/classes/ru/gb/hw_sem6_base/HwSem6BaseApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar06/hw_sem6_base/target/classes/ru/gb/hw_sem6_base/controller/NoteController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar06/hw_sem6_base/target/classes/ru/gb/hw_sem6_base/domain/Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar06/hw_sem6_base/target/classes/ru/gb/hw_sem6_base/repository/NoteRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar06/hw_sem6_base/target/classes/ru/gb/hw_sem6_base/service/NoteService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar06/hw_sem6_base/target/classes/ru/gb/hw_sem6_base/service/impl/NoteServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar06/hw_sem6_base/target/classes/schema.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar06/hw_sem6_base/target/test-classes/ru/gb/hw_sem6_base/HwSem6BaseApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example1_sem8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example1_sem8/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example1_sem8/src/main/java/ru/gb/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/example1_sem8/src/main/java/ru/gb/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example1_sem8/src/main/java/ru/gb/config/ProjectConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/example1_sem8/src/main/java/ru/gb/config/ProjectConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example1_sem8/target/classes/ru/gb/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example1_sem8/target/classes/ru/gb/aspect/LoggingAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example1_sem8/target/classes/ru/gb/config/ProjectConfiguration.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2g5gJwZS4dU1Oxli7PnI48fPVzd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/glazkova_marina/Desktop/GB_Developer/Spring/Spring6145/Seminar08&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30b887bc-01ff-4765-9f1f-7c6b9adc5d93" name="Changes" comment="" />
+      <created>1714992784197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714992784197</updated>
+    </task>
+    <servers />
+  </component>
+</project>
